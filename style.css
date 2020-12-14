@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    
+    text-align: center;
+}
+
+.links {
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    background-color:yellow;
+}
+.links:hover{
+    text-decoration: underline;
+    font-size: 40px;
+}
+#page1{
+    background-color:aqua;
+}
+h1{
+   font-size: 70px;
+       font-family: 'Nerko One', cursive;
+
+    font-family: 'Sansita Swashed', cursive;
+    color: mediumpurple;
+    
+}
+h4{
+        font-family: 'Nerko One', cursive;
+
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 33px;
+}
+h2{
+    color: blueviolet;
+        font-family: 'Nerko One', cursive;
+
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 50px;
+}
+h3{
+    
+        font-family: 'Nerko One', cursive;
+
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 50px
+}
+#page2{
+    background-color: dodgerblue;
+}
+#page3{
+    background-color:orangered;
+}
+img{
+    width: 450px;
+    height: 450px;
+    border-radius:500px;
+}
+#img1{
+     width: 700px;
+    height: 700px;
+    border-radius:550px;
+}
+#page4{
+    background-color: mediumorchid;
+}
+#page5{
+background-color:chartreuse;
+}
+#page6{
+    background-color: darkorange; 
+}
+#page7{
+    background-color: aquamarine;
+}
